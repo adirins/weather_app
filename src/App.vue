@@ -4,7 +4,7 @@ import { RouterView } from 'vue-router'
 </script>
 
 <template>
-  <div class="w-full h-full max-w-">
+  <main class="w-full h-full max-w-">
     <RouterView />
-  </div>
+  </main>
 </template>
